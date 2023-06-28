@@ -30,3 +30,17 @@ tipos-variaveis/src/TiposVariaveis.java
 tipos-variaveis/src/TiposVariaveis.java
 sistema-smart-tv/README.md
 ContaBanco/.vscode/settings.json
+EstudoInterface/README.md
+EstudoInterface/.vscode/settings.json
+EstudoInterface/src/equipamentos/copiadora/Copiadora.java
+EstudoInterface/src/equipamentos/copiadora/Xerox.java
+EstudoInterface/src/equipamentos/digitalizadora/Digitalizadora.java
+EstudoInterface/src/equipamentos/digitalizadora/Scanner.java
+EstudoInterface/src/equipamentos/impressora/Deskjet.java
+EstudoInterface/src/equipamentos/impressora/Impressora.java
+EstudoInterface/src/equipamentos/impressora/Laserjet.java
+EstudoInterface/src/equipamentos/multifuncional/EquipamentoMultifuncional.java
+EstudoInterface/src/estabelecimento/Fabrica.java
+DesafioIPhone/README.md
+DesafioIPhone/.vscode/settings.json
+.gitignore
